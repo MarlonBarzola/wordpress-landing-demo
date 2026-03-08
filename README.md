@@ -12,7 +12,7 @@ Landing page for a dental clinic built with WordPress.
 
 ### Dental Treatment Calculator
 
-![Calculator](screenshots/calculator.png)
+![Calculator](screenshots/calculator-v2.png)
 
 ## Technologies
 
