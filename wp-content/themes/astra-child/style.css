@@ -1,0 +1,19 @@
+/*
+Theme Name: Astra Child
+Template: astra
+*/
+
+#home_image{
+    background-attachment: fixed;
+    background-position: top center;
+}
+
+#discount_image {
+    background-attachment: fixed;
+}
+
+@media (max-width: 767px) {
+   #discount_image {
+        background-attachment: initial;
+    }
+}

@@ -1,0 +1,17 @@
+.dental-calculator{
+    padding:20px;
+    border-radius:10px;
+    background:#f5f8fb;
+    width: 100%;
+}
+
+.dental-calculator button{
+    background: #387dff;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+#result {
+    margin-top:20px;
+}

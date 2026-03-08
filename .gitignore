@@ -1,0 +1,11 @@
+# Ignorar cosas innecesarias
+node_modules/
+vendor/
+.env
+
+# Ignorar todo WordPress excepto lo que hicimos
+wp-content/*
+!wp-content/themes/
+!wp-content/themes/astra-child/
+!wp-content/plugins/
+!wp-content/plugins/dental-calculator/
