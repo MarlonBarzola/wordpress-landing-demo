@@ -1,6 +1,18 @@
+⭐ WordPress Landing Page + Custom Plugin
+
 # Dental Clinic Landing Page
 
 Landing page for a dental clinic built with WordPress.
+
+## Preview
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Dental Treatment Calculator
+
+![Calculator](screenshots/calculator.png)
 
 ## Technologies
 
@@ -13,10 +25,6 @@ Landing page for a dental clinic built with WordPress.
 ## Features
 
 * Responsive landing page
-* Custom parallax section
-* Dental treatment calculator with automatic 10% discount
-* WordPress plugin created from scratch
-
-## Purpose
-
-Practice project to refresh WordPress development workflow and Elementor layout building.
+* Parallax background section
+* Custom dental treatment calculator
+* Automatic **10% discount** logic implemented in JavaScript
